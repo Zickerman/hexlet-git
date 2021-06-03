@@ -1,4 +1,0 @@
-Haskell Curry
-
-
-Second row
