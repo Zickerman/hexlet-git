@@ -1,0 +1,10 @@
+{
+    "name": "zick/hexlet-git",
+    "authors": [
+        {
+            "name": "Zickerman",
+            "email": "zick1990@inbox.ru"
+        }
+    ],
+    "require": {}
+}
